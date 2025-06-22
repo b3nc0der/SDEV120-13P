@@ -1,0 +1,186 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="IRFT1AFyhmolgX4-R1t0">
+    <mxGraphModel dx="1158" dy="3002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-1" target="KIVN23BKgJxm8DdQLMJq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="123.75" y="-1920" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-2" target="KIVN23BKgJxm8DdQLMJq-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-2" value="Declarations&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;num projectedHours&lt;br&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;num laborCost = 30&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;num wholesaleCost&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;num totalCostOfJob&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;string QUIT = &quot;0&quot;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;string endLine = &quot;End of Program&quot;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1880" width="242.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-4" target="KIVN23BKgJxm8DdQLMJq-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-4" value="output = &quot;Please enter total projected hours&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="436.61" y="-1860" width="271.88" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-5" value="input wholesaleCost" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="478.74" y="-1715" width="187.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-17" target="KIVN23BKgJxm8DdQLMJq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-17" value="detailLoop()" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="558.49" y="-1540" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-18" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="125" y="-1270" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-19" value="Return" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="582.99" y="-1320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-24" target="KIVN23BKgJxm8DdQLMJq-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-24" value="projectedHours&lt;br&gt;&lt;div&gt;=/= QUIT?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="116.25" y="-1540" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="261.24" y="-1520" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KIVN23BKgJxm8DdQLMJq-26" source="KIVN23BKgJxm8DdQLMJq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="191.26" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-15" value="detailLoop()" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="KIVN23BKgJxm8DdQLMJq-26">
+          <mxGeometry y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="KIVN23BKgJxm8DdQLMJq-26">
+          <mxGeometry width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-28" target="KIVN23BKgJxm8DdQLMJq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-28" value="input projectedHours" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="497.55" y="-1810" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-29" target="KIVN23BKgJxm8DdQLMJq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-29" value="output = &quot;Please enter wholesale cost of materials &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="419.49" y="-1760" width="307.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-31" target="KIVN23BKgJxm8DdQLMJq-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-31" value="output totalCostOfJob = (laborCost * projectedHours) + (wholesaleCost * 1.2)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="475.24" y="-1470" width="316.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="86.25" y="-1740" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-55" value="housekeeping()" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="KIVN23BKgJxm8DdQLMJq-54">
+          <mxGeometry y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-56" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="KIVN23BKgJxm8DdQLMJq-54">
+          <mxGeometry width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-57" target="KIVN23BKgJxm8DdQLMJq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-57" value="housekeeping()" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="517.49" y="-1910" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-55" target="KIVN23BKgJxm8DdQLMJq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.042;entryY=0.427;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-24" target="KIVN23BKgJxm8DdQLMJq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-62" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="-1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-63" value="Return" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="528.24" y="-1670" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="452.5" y="-1600" as="sourcePoint" />
+            <mxPoint x="172.5" y="-1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="82.5" y="-1390" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-71" value="endOfFile()" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="KIVN23BKgJxm8DdQLMJq-69">
+          <mxGeometry y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-72" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="KIVN23BKgJxm8DdQLMJq-69">
+          <mxGeometry width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-71" target="KIVN23BKgJxm8DdQLMJq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-77" target="KIVN23BKgJxm8DdQLMJq-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-77" value="endOfFile()" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="344.12" y="-1380" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-78" value="output = endLine" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="321.12" y="-1320" width="127" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-80" value="Return" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="348.12" y="-1270" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-78" target="KIVN23BKgJxm8DdQLMJq-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-82" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-100" target="KIVN23BKgJxm8DdQLMJq-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-100" value="Main Program" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="251.12" y="-2160" width="197" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-101" value="housekeeping()" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-102" value="detailLoop()" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="277.62" y="-2040" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-104" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KIVN23BKgJxm8DdQLMJq-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="-2080" as="sourcePoint" />
+            <mxPoint x="400" y="-1970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="-2080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-105" value="endOfFile()" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="462.99" y="-2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="-2080" as="sourcePoint" />
+            <mxPoint x="520" y="-2040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-2080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-5" target="KIVN23BKgJxm8DdQLMJq-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-112" value="output &quot;Total cost of job &#39;&#39; = totalCostOfJob" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#DC7135;" vertex="1" parent="1">
+          <mxGeometry x="497.55" y="-1380" width="272" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KIVN23BKgJxm8DdQLMJq-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KIVN23BKgJxm8DdQLMJq-112" target="KIVN23BKgJxm8DdQLMJq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
